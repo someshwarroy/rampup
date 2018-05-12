@@ -11,7 +11,7 @@ def main():
 
   print(oNow.strftime("%y-%Y-%a-%A-%b-%B-%d %c %x %X %I %H %M %S %p"))
 
-  #### Date Formatting ####
+  #### Date Formatting check ####
   
   # %y/%Y - Year, %a/%A - weekday, %b/%B - month, %d - day of month
 
